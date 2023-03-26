@@ -1,0 +1,30 @@
+/* .form__data {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+} */
+
+.form__text {
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form__input {
+    margin-bottom: 10px;
+    height: 30px;
+    width: 250px;
+    padding: 0 10px;
+}
+
+.form__button {
+    border: 1px solid rgb(5, 18, 161);
+    border-radius: 2px;
+    height: 30px;
+    width: 100px;
+    color: darkblue;
+    cursor: pointer;
+    font-weight: bold;
+}
